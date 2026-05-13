@@ -1,0 +1,240 @@
+Windows SIEM Mini Log Analyzer Report
+========================================
+
+Event Summary:
+4672 - Special privileges assigned: 6
+4624 - Successful login: 7
+
+Flagged Events:
+----------------------------------------
+Time: 5/12/2026 7:17:08 PM
+Event ID: 4672
+Detection: Special privileges assigned
+Message Preview: Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeT
+Severity: HIGH
+Detection: Special privileges assigned
+----------------------------------------
+Time: 5/12/2026 7:17:08 PM
+Event ID: 4624
+Detection: Successful login
+Message Preview: An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-5C8KQ21$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Remote Credential Guard:
+Severity: LOW
+Detection: Successful login
+----------------------------------------
+Time: 5/12/2026 7:12:11 PM
+Event ID: 4672
+Detection: Special privileges assigned
+Message Preview: Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeT
+Severity: HIGH
+Detection: Special privileges assigned
+----------------------------------------
+Time: 5/12/2026 7:12:11 PM
+Event ID: 4624
+Detection: Successful login
+Message Preview: An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-5C8KQ21$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Remote Credential Guard:
+Severity: LOW
+Detection: Successful login
+----------------------------------------
+Time: 5/12/2026 7:12:04 PM
+Event ID: 4672
+Detection: Special privileges assigned
+Message Preview: Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		S-1-5-21-3925228398-2959666068-2961939966-1000
+	Account Name:		Owner
+	Account Domain:		DESKTOP-5C8KQ21
+	Logon ID:		0x3A72BF5
+
+Privileges:		SeSecurityPrivilege
+			SeTakeOwners
+Severity: HIGH
+Detection: Special privileges assigned
+----------------------------------------
+Time: 5/12/2026 7:12:04 PM
+Event ID: 4624
+Detection: Successful login
+Message Preview: An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-5C8KQ21$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Remote Credential Guard:
+Severity: LOW
+Detection: Successful login
+----------------------------------------
+Time: 5/12/2026 7:12:04 PM
+Event ID: 4624
+Detection: Successful login
+Message Preview: An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-5C8KQ21$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		2
+	Restricted Admin Mode:	-
+	Remote Credential Guard:
+Severity: LOW
+Detection: Successful login
+----------------------------------------
+Time: 5/12/2026 7:12:00 PM
+Event ID: 4672
+Detection: Special privileges assigned
+Message Preview: Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeT
+Severity: HIGH
+Detection: Special privileges assigned
+----------------------------------------
+Time: 5/12/2026 7:12:00 PM
+Event ID: 4624
+Detection: Successful login
+Message Preview: An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-5C8KQ21$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Remote Credential Guard:
+Severity: LOW
+Detection: Successful login
+----------------------------------------
+Time: 5/12/2026 7:11:58 PM
+Event ID: 4672
+Detection: Special privileges assigned
+Message Preview: Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeT
+Severity: HIGH
+Detection: Special privileges assigned
+----------------------------------------
+Time: 5/12/2026 7:11:58 PM
+Event ID: 4624
+Detection: Successful login
+Message Preview: An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-5C8KQ21$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Remote Credential Guard:
+Severity: LOW
+Detection: Successful login
+----------------------------------------
+Time: 5/12/2026 7:11:56 PM
+Event ID: 4672
+Detection: Special privileges assigned
+Message Preview: Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3E7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeT
+Severity: HIGH
+Detection: Special privileges assigned
+----------------------------------------
+Time: 5/12/2026 7:11:56 PM
+Event ID: 4624
+Detection: Successful login
+Message Preview: An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-5C8KQ21$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Remote Credential Guard:
+Severity: LOW
+Detection: Successful login
